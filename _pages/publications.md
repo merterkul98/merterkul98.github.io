@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## [Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data](https://arxiv.org/pdf/2110.14317.pdf)
 
-{% include base_path %}
+### M. E. Akbiyik*, <b> Mert Erkul* </b>, K. Kaempf*, V. Vasiliauskaite, N. Antulov-Fantulin
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### To appear, _ACM International Web Search and Data Mining (WSDM) Conference 2023._
+
+## [Tightening the Loop in Mixed-Initiative ML Engineering and Domain Annotation using Active Learning and Visual Analytics](https://vis-biomed-ai.github.io/assets/pdf/vis22t-sub1053-cam-i7.pdf)
+
+### <b> Mert Erkul* </b>, P. Priyatamwong*, B. Tomekce*, M. Morales-Wyden, W. Baumgartner, E. White, M. Bada, L. Hunter, M. El-Assady
+
+### _Visualization in Biomedical AI Workshop, IEEE VIS 2022._
+
+
