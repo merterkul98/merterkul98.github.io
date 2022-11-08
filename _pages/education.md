@@ -13,7 +13,7 @@ I joined ETH Zurich, Department of Computer Science in September 2020. I am doin
 
 Advanced Machine Learning, Deep Learning, Big Data, Probabilistic Artificial Intelligence, Network Modelling.
 
-CGPA: 5.76/6.0
+*CGPA: 5.76/6.0*
 
 ## Bilkent University, Turkey <img src="/images/bilkent_logo.png" height="50px" width="50px" align="right"/>
 
@@ -23,7 +23,7 @@ I joined Bilkent University in September 2016, and graduated in June 2020. I was
 
 Introduction to Machine Learning, Neural Networks, Statistical Learning and Data Analytics, Artificial Intelligence, Game Theory.
 
-CGPA: 3.92/4.0
+*CGPA: 3.92/4.0*
 
 
 ## Nanyang Technological University, Singapore <img src="/images/ntu_logo.png" width="100px" height="50px" align="right"/>
@@ -34,14 +34,14 @@ Thanks to the excellent bilateral exchange program offered in Bilkent University
 
 Engineering Electromagnetics, Signals and Systems, Electronic Circuit Design, Discrete Mathematics.
 
-CGPA: 5.0/5.0
+*CGPA: 5.0/5.0*
 
 ## TED Ankara College, Turkey <img src="/images/ted_logo.png" height="50px" width="50px" align="right"/>
 
 Basically, I spent my primary, middle and highschool in TED Ankara College (so a huge part of my life). I was selected to study (top 60 students in the cohort of ~600 students) in the Scholar Development Program during highschool where I had my first experience in attending scientific project competition (I attended the Biology track) and subject olympics, organized by the Scientific and Technological Research Council of Turkey (TUBITAK).
 
 
-CGPA: 96.43/100.0
+*CGPA: 96.43/100.0*
 
 
 
