@@ -23,7 +23,7 @@ Here, you can find the undergrad/grad projects that I completed, in a reverse ch
 
 *Abstract:* In this project, we examined the EURO 2020 semi-final match Italy against Spain. Throughout the course, we saw various analysis techniques, regarding players' movement, passing, shooting, in-game and end-of-game match probabilities, set-pieces, player valuations, ratings and many more. Using these, we generated a match report based on the event data obtained from Statsbomb, and the tracking data obtained by the courtesy of UEFA.
 
-[Report](/files/projects/soccer_analytics.html)
+[Report](/files/projects/49.html)
 
 *Grade:* 6.0 / 6.0
 
@@ -72,11 +72,12 @@ Similar to the _Probabilistic Artificial Intelligence_ course, we were assigned 
 
 ## BeeSMART
 
-### Bilkent University, Industrial Design Project, EEE 494 <img src="/images/bilkent_logo.png" height="50px" width="50px" align="right"/>
+### Bilkent University, Industrial Design Project, EE 494 <img src="/images/bilkent_logo.png" height="50px" width="50px" align="right"/>
 
 *Abstract:* This project aims to create an environment for beekeepers so that they can monitor the hive conditions and also try to predict the medical conditions of the bees by processing their sounds. The solution uses hardware components such as temperature, moisture, tilt, accelerometer, GPS, GSM and microphones for monitoring the hive conditions with addition to recording and processing sounds present in the hive and transferring them over GSM to a cloud server. After the sounds are processed with edge computing, the information are sent to beekeepers and other third-party users via a phone or web application. There are six milestones designated for this project, hardware design, embedded software design, machine learning algorithm design, Android Application design, Web Application design and Cloud-Application connection design. As a result, we have successfully acquired a fully functional hardware that is in connection to applications that notifies beekeepers and helps them correctly classify and monitor hive conditions so that they can plan their visitations more precisely and thus be more efficient in terms of honey production and collection overall.
 
 [Report](/files/projects/report_ee494.pdf)
+
 [Booklet](/files/projects/booklet.pdf)
 
 *Grade:* 4.0 / 4.0
