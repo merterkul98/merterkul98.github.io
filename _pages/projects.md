@@ -118,7 +118,7 @@ Similar to the _Probabilistic Artificial Intelligence_ course, we were assigned 
 
 ### Bilkent University, Introduction to Digital Circuit Design, EE 102 <img src="/images/bilkent_logo.png" height="50px" width="50px" align="right"/>
 
-*Description:* Programmed an FPGA board BASYS3 on Vivado IDE and used data exchange from two distance sensors to build a radar which measured a given object's velocity in terms of centimeters/second, displayed it on a 16x2 programmable LCD. [Video Link](www.youtube.com/watch?v=iopFCk1l58U)
+*Description:* Programmed an FPGA board BASYS3 on Vivado IDE and used data exchange from two distance sensors to build a radar which measured a given object's velocity in terms of centimeters/second, displayed it on a 16x2 programmable LCD. [Video Link](https://www.youtube.com/watch?v=iopFCk1l58U)
 
 *Grade:* 95 / 100
 
