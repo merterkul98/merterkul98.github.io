@@ -9,7 +9,7 @@ redirect_from:
 
 _He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast._
 
-**- Leonardo Da Vinci**
+**- Leonardo da Vinci**
 
 ## About Me
 
