@@ -16,11 +16,11 @@ I have been affiliated with the Social Networks Lab at ETH Zurich, since Novembe
 
 ### Student Researcher, Learning and Adaptive Systems Group - ETH Zurich <img src="/images/eth_z_logo.png" height="50px" width="100px" align="right"/>
 
-I have assisted the large project for investigating the usage of Bayesian Optimization, Reinforcement Learning and Machine Learning in Agriculture, as a student researcher (counted towards my "Research in Data Science" course at ETH Zurich), under the supervision of Prof. Dr. Andreas Krause. For more details, feel free to check the Projects tab!
+I have assisted the large project for investigating the usage of Bayesian Optimization, Reinforcement Learning and Machine Learning in Agriculture, as a student researcher (counted for my "Research in Data Science" course at ETH Zurich), under the supervision of Prof. Dr. Andreas Krause. For more details, feel free to check the Projects tab!
 
 ### Student Researcher, Computational Social Science Lab - ETH Zurich <img src="/images/eth_z_logo.png" height="50px" width="100px" align="right"/>
 
-As a team of 3, under the supervision of Dr. Nino Antulov-Fantulin and Dr. Vaiva Vasiliauskaite, we investigated how social media sensing can improve cryptocurrency portfolios, through volatility forecasting of Bitcoin. We applied and compared state-of-the-art deep learning techniques for time-series data, and observed that the user information is statistically most valuable, in terms of increasing forecasting performance of such tools. This resulted in a conference paper in ACM WSDM 2023, for more details and the paper, feel free to check the Publications tab!
+As a team of 3, under the supervision of Dr. Nino Antulov-Fantulin and Dr. Vaiva Vasiliauskaite, we investigated how social media sensing can improve cryptocurrency portfolios, through volatility forecasting of Bitcoin (counted for my "Data Science Lab" course at ETH Zurich). We applied and compared state-of-the-art deep learning techniques for time-series data, and observed that the user information is statistically most valuable, in terms of increasing forecasting performance of such tools. This resulted in a conference paper in ACM WSDM 2023, for more details and the paper, feel free to check the Publications tab!
 
 
 ## Industry Experience
