@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mert Erkul"
-description              : &description "Masters Student @ ETH Zurich - D-INFK"
+description              : &description "Data Science MSc. @ ETH Zurich - D-INFK"
 url                      : https://merterkul98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "merterkul98/merterkul98.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mert Erkul"
   avatar           : "profile_img.png"
-  bio              : "MSc. Student in ETH Zurich, Department of Computer Science."
-  location         : "Zurich, Switzerland"
+  bio              : "MSc. Graduate in ETH Zurich, Department of Computer Science."
+  location         : "Renens, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=Tyn7TaIAAAAJ&hl=en"
-  email            : "merkul@ethz.ch"
+  email            : "merterkul98@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
