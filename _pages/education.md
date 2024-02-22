@@ -7,13 +7,13 @@ author_profile: true
 
 ## ETH Zurich, Switzerland <img src="/images/eth_z_logo.png" height="50px" width="100px" align="right"/>
 
-I joined ETH Zurich, Department of Computer Science in September 2020. I am doing my Masters in Data Science, and expecting to graduate on March 2023. I had the opportunity to work with great colleagues and I am grateful to have been working under the supervision of [Prof. Dr. Ulrik Brandes](https://gess.ethz.ch/en/the-department/people/person-detail.html?persid=239462) in the [Social Networks Lab](https://sn.ethz.ch) as a research assistant. I also am grateful to have done my research project and to be currently doing my masters thesis under the supervision of [Prof. Dr. Andreas Krause](https://las.inf.ethz.ch/krausea) in the [Learning and Adaptive Systems Group (LAS)](https://las.inf.ethz.ch).
+I joined ETH Zurich, Department of Computer Science in September 2020. I did my Masters in Data Science, and graduated in June 2023. I had the opportunity to work with great colleagues and I am grateful to have been working under the supervision of [Prof. Dr. Ulrik Brandes](https://gess.ethz.ch/en/the-department/people/person-detail.html?persid=239462) in the [Social Networks Lab](https://sn.ethz.ch) as a research assistant. I also am grateful to have done my research project and to have done masters thesis under the supervision of [Prof. Dr. Andreas Krause](https://las.inf.ethz.ch/krausea) in the [Learning and Adaptive Systems Group (LAS)](https://las.inf.ethz.ch).
 
 ### Selected Courses
 
 Advanced Machine Learning, Deep Learning, Big Data, Probabilistic Artificial Intelligence, Network Modelling.
 
-*CGPA: 5.76/6.0*
+*CGPA: 5.83/6.0*
 
 ## Bilkent University, Turkey <img src="/images/bilkent_logo.png" height="50px" width="50px" align="right"/>
 
